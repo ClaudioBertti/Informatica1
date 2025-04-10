@@ -15,5 +15,6 @@ Portifólio de Trabalhos desenvolvidos no curso de GPI - Fatec São José dos Ca
 ![image](https://github.com/user-attachments/assets/5c8089cf-aa04-44cb-bf46-ef862d21fb3c)
 
 ## Terceira Atividade: PowerBI Github
+Segue o link: https://github.com/ClaudioBertti/Informatica1/blob/main/Pescadores2%20(2).pbix
 ![image](https://github.com/user-attachments/assets/694755ee-5b8b-4149-9a65-09511c24f8e6)
 ![image](https://github.com/user-attachments/assets/ea025afb-00f2-4737-85b4-b6a6117abe9d)
