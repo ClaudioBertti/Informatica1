@@ -4,6 +4,7 @@ Portifólio de Trabalhos desenvolvidos no curso de GPI - Fatec São José dos Ca
 
 
 ##Segunda Atividade: Grafico de contas a pagar.
+Segue o link: https://github.com/ClaudioBertti/Informatica1/blob/main/Pasta%201.xlsx
 ![image](https://github.com/user-attachments/assets/86679580-f29b-4e85-847a-4aca1f36c123)
 ![image](https://github.com/user-attachments/assets/c555a5db-7039-4f09-a2e1-a4f9c6496efb)
 
